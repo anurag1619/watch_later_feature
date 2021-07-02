@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="startEnd">27dp</dimen>
+    <dimen name="firstLayoutStartEnd">27dp</dimen>
+    <dimen name="secondLayoutStartEnd">16dp</dimen>
+</resources>
